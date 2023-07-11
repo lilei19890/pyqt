@@ -1,0 +1,1 @@
+([('main', '/Users/yixia/pyqt/codes/dist/main', 'EXECUTABLE')],)
